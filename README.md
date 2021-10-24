@@ -1,9 +1,10 @@
 <h1 align="center">Hi I'm Pratham Bhatnagar<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines= Computer-Science+Engineering+Student+at+SRM+University;Open-Source+Enthusiast;Nice+To+Meet+You+...&center=true">
-  </p>
-  
-![Pratham Bhatnagar's github activity graph](https://activity-graph.herokuapp.com/graph?username=pratham-bhatnagar&theme=react-dark)
+<p align="center"> 
+<img align="center" alt="GIF of Me" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="650px"/>
+</p>
+
+
+  ![Pratham Bhatnagar's github activity graph](https://activity-graph.herokuapp.com/graph?username=pratham-bhatnagar&theme=react-dark)
 
 
 
@@ -75,10 +76,11 @@
     />
   </a>
 
-<h3 align="left">📈 Stats</h3>
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pratham-bhatnagar&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-bhatnagar&theme=tokyonight" />
+
+<h2 align="center">Github Statistics </h2>
+
+|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
+|-----------------------------------|----------------------------------|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-bhatnagar&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/pratham-bhatnagar)|[![Sushant's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=pratham-bhatnagar&theme=midnight-purple&hide_border=true)](https://github.com/pratham-bhatnagar)
+|[![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham-bhatnagar&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/pratham-bhatnagar)|
 </p>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=pratham-bhatnagar.pratham-bhatnagar)
