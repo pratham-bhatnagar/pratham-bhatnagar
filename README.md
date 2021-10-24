@@ -10,6 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:prathambhatnagar2803@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
   <a href="https://twitter.com/prrthamm" target="blank"
     ><img
       align="center"
@@ -78,3 +81,4 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pratham-bhatnagar&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-bhatnagar&theme=tokyonight" />
 </p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pratham-bhatnagar.pratham-bhatnagar)
