@@ -84,5 +84,6 @@
 |[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-bhatnagar&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/pratham-bhatnagar)|[![Sushant's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=pratham-bhatnagar&theme=midnight-purple&hide_border=true)](https://github.com/pratham-bhatnagar)
 |[![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham-bhatnagar&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/pratham-bhatnagar)|
 </p>
-Visits:
+<h1 >Visits: </h1> 
+
 ![Visitor Count](https://profile-counter.glitch.me/pratham-bhatnagar/count.svg)
