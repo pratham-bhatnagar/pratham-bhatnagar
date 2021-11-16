@@ -58,6 +58,7 @@
       width="40"
       height="40"
     />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   </a>
     <a href="https://www.mysql.com/" target="_blank">
     <img
