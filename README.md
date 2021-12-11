@@ -1,3 +1,4 @@
+<h1 align="center">Hi I'm Pratham Bhatnagar<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
  </p>
@@ -5,7 +6,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi I'm Pratham Bhatnagar<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
+
 
 
 
