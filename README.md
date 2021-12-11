@@ -6,9 +6,7 @@
 </p>
 <hr>
 <h1 align="center">Hi I'm Pratham Bhatnagar<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
-<p align="center"> 
-<img align="center" alt="GIF of Me" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="650px"/>
-</p>
+
 
 
   ![Pratham Bhatnagar's github activity graph](https://activity-graph.herokuapp.com/graph?username=pratham-bhatnagar&theme=react-dark)
