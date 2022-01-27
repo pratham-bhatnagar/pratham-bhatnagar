@@ -1,4 +1,5 @@
-<h1 align="center">Hi I'm Pratham Bhatnagar<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi I'm Pratham Bhatnagar
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Opensource+Contributor+at+Zulip)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
  </p>
@@ -12,7 +13,7 @@
 
   ![Pratham Bhatnagar's github activity graph](https://activity-graph.herokuapp.com/graph?username=pratham-bhatnagar&theme=react-dark)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Opensource+Contributor+at+Zulip)](https://git.io/typing-svg)
+
 
 
 <h3 align="left">Connect with me:</h3>
