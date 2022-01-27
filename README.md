@@ -12,7 +12,7 @@
 
   ![Pratham Bhatnagar's github activity graph](https://activity-graph.herokuapp.com/graph?username=pratham-bhatnagar&theme=react-dark)
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Opensource+Contributor+at+Zulip)](https://git.io/typing-svg)
 
 
 <h3 align="left">Connect with me:</h3>
