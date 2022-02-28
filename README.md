@@ -1,14 +1,14 @@
 <h1 align="center">Hi I'm Pratham Bhatnagar
   
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Pratham Bhatnagar" width="30px">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Software+Developer+Intern+at+Teacanalogy;)](https://git.io/typing-svg)
 </h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Pratham Bhatnagar">
  </p>
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" alt="Pratham Bhatnagar" height="200"/>
 </p>
 <hr>
 
@@ -22,14 +22,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:prathambhatnagar2803@gmail.com?'Reching out to you'='Hi, I want to enwuire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="2000_i_k" height="40" width="40" /></fa>
+<a href="mailto:prathambhatnagar2803@gmail.com?'Reching out to you'='Hi, I want to enwuire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="Pratham Bhatnagar" height="40" width="40" /></fa>
 
 </a>
   <a href="https://twitter.com/prrthamm" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="prrthamm"
+      alt="Pratham Bhatnagar"
       height="30"
       width="40"
   /></a>
@@ -37,7 +37,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="pratham-bhatnagar"
+      alt="Pratham Bhatnagar"
       height="30"
       width="40"
   /></a>
@@ -45,7 +45,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="shreyaansjain06"
+      alt="Pratham Bhatnagar"
       height="30"
       width="40"
   /></a>
