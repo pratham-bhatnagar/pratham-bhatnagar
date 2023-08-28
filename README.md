@@ -1,8 +1,6 @@
-<h1 align="center">Hi I'm Pratham Bhatnagar
+<h1 align="center">gm frens <br/> I'm Pratham Bhatnagar 👾
   
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Pratham Bhatnagar" width="30px">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Software+Developer+Intern+at+Teacanalogy;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Scabality+|+ZKP+|+Rust+|+DIDs+|+Cryptography+|+ZKML;)](https://git.io/typing-svg)
 </h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Pratham Bhatnagar">
@@ -12,10 +10,6 @@
 </p>
 <hr>
 
-
-
-
-  ![Pratham Bhatnagar's github activity graph](https://activity-graph.herokuapp.com/graph?username=pratham-bhatnagar&theme=react-dark)
 
 
 
