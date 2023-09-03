@@ -24,10 +24,9 @@
 - 📫 How to reach me **prathambhatnagar2803@gmail.com**
 
 
-<p align="center">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratham-bhatnagar&theme=dracula" />
-        <img alt= "stats card" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratham-bhatnagar&theme=dracula">
-<p>
+|🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
+|----------------------------------|----------------------------|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-bhatnagar&theme=midnight-purple&layout=compact&hide=css,html)]() | [![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham-bhatnagar&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/pratham-bhatnagar)|ksjdkshkd|
 
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 <h3 align="center" > Connect with me: </h3>
