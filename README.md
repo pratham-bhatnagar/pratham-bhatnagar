@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Scabality+|+ZKP+|+Rust+|+DIDs+|+Cryptography+|+ZKML;)](https://git.io/typing-svg)
 </h1>
-<h2 align = "center"> Fullstack web3 Developer | EthIndia Fellow Wie Track | Dev @Purple Pay <h2/>
+<h2 align = "center"> Fullstack web3 Developer | EthIndia Fellow Wie Track | Dev @Purple Pay </h2>
 
 
 
@@ -22,6 +22,12 @@
 - 💬 Ask me about **ZKPs, DIDs, Web3, Blockchain Scalabality**
 
 - 📫 How to reach me **prathambhatnagar2803@gmail.com**
+
+
+<p align="center">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratham-bhatnagar&theme=dracula" />
+        <img alt= "stats card" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratham-bhatnagar&theme=dracula">
+<p>
 
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 <h3 align="center" > Connect with me: </h3>
