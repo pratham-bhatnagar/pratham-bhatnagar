@@ -5,6 +5,13 @@
 <h2 align = "center"> Fullstack web3 Developer | EthIndia Fellow Wie Track | Dev @Purple Pay </h2>
 
 
+- 🌱 I’m currently learning **Rust, DIDs, ZKML**
+
+- 💬 Ask me about **ZKPs, DIDs, Web3, Blockchain Scalabality**
+
+- 📫 How to reach me **prathambhatnagar2803@gmail.com**
+
+
 
 |  Projects|Hackathons|Description|
 |-----------|---------|---------|
@@ -15,18 +22,16 @@
 | PeerCode 🧑🏼‍💻 | 1st Huddle01 Holiday Hack| The remote collaboration platform for developers that brings them together, even when they're apart |
 | [Strife 🎮](https://devfolio.co/projects/strife-pe-2bdb)| Best Project Build on Polygon ~ DataHacks  | Decentralized play to earn contest platform for classic games |
 
+<br/>
+<br/>
 
-
-- 🌱 I’m currently learning **Rust, DIDs, ZKML**
-
-- 💬 Ask me about **ZKPs, DIDs, Web3, Blockchain Scalabality**
-
-- 📫 How to reach me **prathambhatnagar2803@gmail.com**
 
 
 |🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-bhatnagar&theme=midnight-purple&layout=compact&hide=css,html)]() | [![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham-bhatnagar&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/pratham-bhatnagar)|ksjdkshkd|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-bhatnagar&theme=midnight-purple&layout=compact&hide=css,html)]() | [![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham-bhatnagar&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/pratham-bhatnagar)|
+
+
 
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 <h3 align="center" > Connect with me: </h3>
