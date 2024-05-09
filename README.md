@@ -1,6 +1,6 @@
 <h1>Hi, I'm Pratham Bhatnagar 👾
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Scabality+|+ZKP+|+Rust+|+DIDs+|+Cryptography+|+ZKML;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Scabality+|+ZKP+|+Rust+|+FHE+|+Cryptography+|+ZKML;)](https://git.io/typing-svg)
 </h1>
 <h2 align = "center"> Fullstack web3 Developer | EthIndia Fellow Wie Track | Dev @Purple Pay </h2>
 
