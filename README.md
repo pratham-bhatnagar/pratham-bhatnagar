@@ -5,9 +5,9 @@
 <h2 align = "center"> Fullstack web3 Developer | EthIndia Fellow Wie Track | Dev @Purple Pay </h2>
 
 
-- 🌱 I’m currently learning **Rust, DIDs, ZKML**
+- 🌱 I’m currently learning **FHE, Rust**
 
-- 💬 Ask me about **ZKPs, DIDs, Web3, Blockchain Scalabality**
+- 💬 Ask me about **ZKPs, FHE, Web3, Blockchain Scalabality**
 
 - 📫 How to reach me **prathambhatnagar2803@gmail.com**
 
